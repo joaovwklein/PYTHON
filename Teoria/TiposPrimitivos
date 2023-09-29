@@ -1,0 +1,7 @@
+#No python existem varios tipos de valores (primitivos) para adicionarmos e manipularmos dentro das variavéis, entre elas estão:
+#Inteiro - Int -> Numeros inteiros(1,10,-5,1753)
+#Real, Ponto flutuante - float -> Numeros "quebrados"(1.99,4.35,-43.543,3.14)
+#Booleano - bool -> verdadeiro ou falso (True, False)
+#String - str -> textos em geral ("Olá Mundo")
+#
+#
