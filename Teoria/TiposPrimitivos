@@ -3,5 +3,3 @@
 #Real, Ponto flutuante - float -> Numeros "quebrados"(1.99,4.35,-43.543,3.14)
 #Booleano - bool -> verdadeiro ou falso (True, False)
 #String - str -> textos em geral ("Olá Mundo")
-#
-#
